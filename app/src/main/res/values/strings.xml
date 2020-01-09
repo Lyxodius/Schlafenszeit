@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Schlafenszeit</string>
+    <string name="nur_noch">Nur noch</string>
+    <string name="beispielzeit">12:00:00</string>
+    <string name="bis_zur_schlafenszeit">bis zur Schlafenszeit!</string>
+    <string name="das_sind_1440_minuten">Das sind 1440 Minuten</string>
+    <string name="bzw">bzw.</string>
+    <string name="_84400_sekunden">84400 Sekunden.</string>
+    <string name="ab_in_bett">Ab in Bett!</string>
+</resources>
